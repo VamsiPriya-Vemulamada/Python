@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3-Tier-Architecure" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Docker-Hands-On" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Roboshop-Manual" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ShellScripting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ShellScripting1" vcs="Git" />
+  </component>
+</project>
